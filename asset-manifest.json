@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/modimanju/static/css/main.dccf47e0.chunk.css",
+    "main.js": "/modimanju/static/js/main.a6177773.chunk.js",
+    "main.js.map": "/modimanju/static/js/main.a6177773.chunk.js.map",
+    "runtime-main.js": "/modimanju/static/js/runtime-main.9593e291.js",
+    "runtime-main.js.map": "/modimanju/static/js/runtime-main.9593e291.js.map",
+    "static/css/2.d7f36125.chunk.css": "/modimanju/static/css/2.d7f36125.chunk.css",
+    "static/js/2.f91d4f64.chunk.js": "/modimanju/static/js/2.f91d4f64.chunk.js",
+    "static/js/2.f91d4f64.chunk.js.map": "/modimanju/static/js/2.f91d4f64.chunk.js.map",
+    "index.html": "/modimanju/index.html",
+    "static/css/2.d7f36125.chunk.css.map": "/modimanju/static/css/2.d7f36125.chunk.css.map",
+    "static/css/main.dccf47e0.chunk.css.map": "/modimanju/static/css/main.dccf47e0.chunk.css.map",
+    "static/js/2.f91d4f64.chunk.js.LICENSE.txt": "/modimanju/static/js/2.f91d4f64.chunk.js.LICENSE.txt",
+    "static/media/about.84853894.svg": "/modimanju/static/media/about.84853894.svg",
+    "static/media/babel.469f94c3.png": "/modimanju/static/media/babel.469f94c3.png",
+    "static/media/css.99116e10.png": "/modimanju/static/media/css.99116e10.png",
+    "static/media/home.6e5e47e0.svg": "/modimanju/static/media/home.6e5e47e0.svg",
+    "static/media/html.c3d8fecd.png": "/modimanju/static/media/html.c3d8fecd.png",
+    "static/media/reacct.73ac128a.png": "/modimanju/static/media/reacct.73ac128a.png",
+    "static/media/sass.9a248631.png": "/modimanju/static/media/sass.9a248631.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9593e291.js",
+    "static/css/2.d7f36125.chunk.css",
+    "static/js/2.f91d4f64.chunk.js",
+    "static/css/main.dccf47e0.chunk.css",
+    "static/js/main.a6177773.chunk.js"
+  ]
+}
